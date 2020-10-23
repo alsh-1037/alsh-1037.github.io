@@ -59,18 +59,31 @@ body {
     padding: 40px 0;
 }
 
-.header_logo p{
+.header_logo a{
     color: rgb(255, 255, 255);
-    font-size: 24px;
+    font-size: 20px;
     line-height: 30px;
     font-weight: 700;
     -webkit-animation: pulsate 1.2s linear infinite;
     animation: pulsate 1.2s linear infinite;
+    text-decoration: none;
    
 }
 
 .button a{
     display: inline-block; 
+    padding: 3px;
+    padding-bottom: 0px;
+    margin-right: 20px;
+}
+
+.header_logo_img img{
+    width: 20px;
+    height: 20px;
+}
+.header_logo_img a{
+    display: inline-block;
+    align-items: center; 
     padding: 3px;
     padding-bottom: 0px;
     margin-right: 20px;
