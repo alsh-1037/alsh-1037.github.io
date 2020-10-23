@@ -90,13 +90,13 @@ body {
 }
 
 .inst{
-    background: black;
+    background: linear-gradient(29.61deg, #f38334 0%, #da2e7d 50.39%, #6b54c6 100%);
     border-radius: 5px;
 }
 
 
 .fb{
-    background: #4867aa;
+    background: #3b5998;
     border-radius: 5px;
 }
 
