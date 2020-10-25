@@ -89,6 +89,12 @@ body {
     margin-right: 20px;
 }
 
+.header_logo a{
+    background: rgba(0, 0, 0, 0.13);
+    border-radius: 20px;
+    padding: 4px;
+}
+
 .inst{
     background: linear-gradient(29.61deg, #f38334 0%, #da2e7d 50.39%, #6b54c6 100%);
     border-radius: 5px;
